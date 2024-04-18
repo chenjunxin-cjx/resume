@@ -13,7 +13,7 @@ export function createAppRouter() {
 
     /** Create Home **/
     const routeList = [{
-        path: '/resume',
+        path: '/',
         name: homeSection['id'],
         component: RouterView
     }]
