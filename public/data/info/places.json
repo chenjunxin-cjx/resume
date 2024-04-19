@@ -8,10 +8,10 @@
     },
 
     "apple": {
-        "logoUrl": "images/places/logo-apple.png",
+        "logoUrl": "images/places/logo-coursera.png",
         "faIcon": "fab fa-apple",
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "en": {"name": "贵阳观山湖区"}
         }
     },
 
@@ -19,7 +19,7 @@
         "logoUrl": "images/places/logo-coursera.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Coursera"}
+            "en": {"name": "成都武侯区"}
         }
     },
 
@@ -70,10 +70,10 @@
     },
 
     "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
+        "logoUrl": "images/places/logo-coursera.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "en": {"name": "北京昌平区"}
         }
     }
 }
