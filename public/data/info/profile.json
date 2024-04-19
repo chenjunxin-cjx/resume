@@ -28,17 +28,17 @@
         "address": {
             "id": "address",
             "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "valueShort": "成都市武侯区簇锦家园",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "374659576@qq.com",
+            "valueShort": "374659576@qq.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=2eru7e-s4Ozu75moqPe6trQ"
         },
 
         "facebook": {
@@ -51,10 +51,10 @@
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "chenjunxin-cjx",
+            "valueShort": "chenjunxin-cjx",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/chenjunxin-cjx/resume"
         },
 
         "instagram": {
@@ -75,10 +75,10 @@
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "181-1194-0273",
+            "valueShort": "181-1194-0273",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:18111940273"
         }
     }
 }

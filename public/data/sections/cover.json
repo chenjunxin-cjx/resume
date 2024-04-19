@@ -19,9 +19,9 @@
     },
 
     "zh": {
-      "welcome": "欢迎来到我的<span class='text-primary'>项目</span>！",
+      "welcome": "欢迎查看我的<span class='text-primary'>简历</span>！",
       "welcomeShort": "欢迎!",
-      "bio": "作为一个有志青年，一定要有志气"
+      "bio": "我是一个有了两年前端开发经验，我擅长使用Vue框架开发前端应用和使用UniApp开发移动端。"
     }
   },
 
