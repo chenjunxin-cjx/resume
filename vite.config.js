@@ -3,6 +3,10 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/resume',
+  base: '/resume/',
   plugins: [vue()],
+  publicDir:'public',
+  build:{
+    outDir:'docs'
+  }
 })
