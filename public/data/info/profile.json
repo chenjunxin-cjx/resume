@@ -1,10 +1,10 @@
 {
-    "name": "Jonas Einstein",
+    "name": "陈俊心",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Front end development engineer<strong><a class='light' href='https://github.com/chenjunxin-cjx'>陈俊心</a></strong>",
             "role": "UX Designer"
         },
 
@@ -19,15 +19,15 @@
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "credits": "前端开发工程师：<strong><a class='light' href='https://github.com/chenjunxin-cjx'>陈俊心</a></strong>",
+            "role": "前端开发工程师"
         }
     },
 
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
+            "value": "成都市武侯区簇锦家园",
             "valueShort": "成都市武侯区簇锦家园",
             "faIcon": "fa-solid fa-city",
             "href": null
@@ -54,13 +54,20 @@
             "value": "chenjunxin-cjx",
             "valueShort": "chenjunxin-cjx",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/chenjunxin-cjx/resume"
+            "href": "https://github.com/chenjunxin-cjx"
+        },
+        "gitee": {
+            "id": "gitee",
+            "value": "chenjunxin-cjx",
+            "valueShort": "chenjunxin-cjx",
+            "faIcon": "fa-brands fa-git",
+            "href": "https://gitee.com/chenjunxin259"
         },
 
         "instagram": {
             "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "374659576@qq.com",
+            "valueShort": "374659576@qq.com",
             "faIcon": "fa-brands fa-instagram",
             "href": "https://instagram.com"
         },

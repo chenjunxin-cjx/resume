@@ -133,30 +133,6 @@
         "interests": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-paint-brush",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "User Experience Design",
-                        "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction."
-                    },
-                    "es": {
-                        "title": "Diseño de Experiencia de Usuario",
-                        "description": "Destacada habilidad en crear experiencias digitales centradas en el usuario. Experto en hacer que la tecnología sea intuitiva y accesible, mejorando la satisfacción del usuario."
-                    },
-                    "fr": {
-                        "title": "Conception d'Expérience Utilisateur",
-                        "description": "Compétent dans la création d'expériences numériques centrées sur l'utilisateur. Habile à rendre la technologie intuitive et accessible, améliorant la satisfaction des utilisateurs."
-                    },
-                    "zh": {
-                        "title": "用户体验设计",
-                        "description": "擅长创造以用户为中心的数字体验。精通使技术直观易用，提升用户满意度。"
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
                 "faIcon": "fas fa-code",
                 "value": null,
                 "locales": {
@@ -166,19 +142,6 @@
                     "zh": {"title": "编程", "description": "探索代码、算法，为现实世界的挑战构建软件解决方案。"}
                 }
             },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-music",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Music", "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres."},
-                    "es": {"title": "Música", "description": "Tocar instrumentos, componer y abrazar la armonía de diversos géneros musicales."},
-                    "fr": {"title": "Musique", "description": "Jouer d'instruments, composer et apprécier l'harmonie de genres musicaux variés."},
-                    "zh": {"title": "音乐", "description": "演奏乐器，作曲，融合多种音乐流派的和谐。"}
-                }
-            },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-users",
