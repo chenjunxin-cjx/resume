@@ -23,13 +23,13 @@
 
     "items": [
         {
-            "id": "experience_item_1",
+            "id": "experience_item_4",
             "place": "@link{places.uxStudio}",
-            "period": ["2015/01", "2017/12"],
+            "period": ["2019/00", "2019/12"],
             "locales": {
                 "en": {
-                    "title": "UX Designer",
-                    "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs."
+                    "title": "Beijing Guoxin Zhenghe Co., Ltd",
+                    "description": "School recruitment Java internship, main job responsibilities: familiar with project framework, completing work requirements, and solving practical bugs."
                 },
                 "es": {
                     "title": "Diseñador de UX",
@@ -40,20 +40,20 @@
                     "description": "Contribué à la conception d'interfaces d'applications web intuitives et conviviales, créant ainsi des expériences utilisateur engageantes et fluides. Collaboré étroitement avec des équipes pluridisciplinaires et des parties prenantes pour garantir que les designs soient alignés sur les objectifs commerciaux et les besoins des utilisateurs."
                 },
                 "zh": {
-                    "title": "用户体验设计师",
-                    "description": "为设计直观、用户友好的网络应用界面作出了贡献，创建了引人入胜且无缝的用户体验。与跨职能团队和利益相关者密切合作，确保设计与业务目标和用户需求相一致。"
+                    "title": "北京国信正合有限公司",
+                    "description": "校招java实习，主要工作内容，熟悉项目框架，完成工作需求，解决实际bug。"
                 }
             }
         },
 
         {
-            "id": "experience_item_2",
-            "place": "@link{places.adobe}",
-            "period": ["2018/01", "2020/08"],
+            "id": "experience_item_4",
+            "place": "@link{places.apple}",
+            "period": ["2020/08", "2021/03"],
             "locales": {
                 "en": {
-                    "title": "Senior UI/UX Designer",
-                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products."
+                    "title": "Guiyang Huikang Zhiyun Co., Ltd",
+                    "description": "Due to the pandemic, I was unable to find a job that matched my major in my first job after graduation. Main job responsibilities include solving problems during the use of software in hospitals and collecting user needs."
                 },
                 "es": {
                     "title": "Designer Senior UI/UX",
@@ -64,20 +64,20 @@
                     "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs."
                 },
                 "zh": {
-                    "title": "高级UI/UX设计师",
-                    "description": "领导设计项目，进行全面的用户研究，利用数据驱动的见解提升用户体验。管理设计团队，培养创意和创新，同时实施设计最佳实践，为各种数字产品交付成功的结果。"
+                    "title": "贵阳惠康智云有限公司",
+                    "description": "毕业后的第一份工作，因为疫情原因，没有找专业对口的工作。主要工作内容，解决医院使用软件过程中的问题，收集用户的需求。"
                 }
             }
         },
 
         {
-            "id": "experience_item_3",
+            "id": "experience_item_4",
             "place": "@link{places.apple}",
-            "period": ["2020/09", "2022/09"],
+            "period": ["2021/05", "2021/11"],
             "locales": {
                 "en": {
-                    "title": "Lead UX Designer",
-                    "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction."
+                    "title": "Yunshang Guangji Co., Ltd",
+                    "description": "My friend recommended me to join a security company. Main responsibilities include installing, debugging, configuring security servers, and resolving user issues."
                 },
                 "es": {
                     "title": "Designer UX Principal",
@@ -88,20 +88,20 @@
                     "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs."
                 },
                 "zh": {
-                    "title": "首席用户体验设计师",
-                    "description": "通过监督设计团队、制定设计战略，并与产品经理、工程师和高管共同推动跨职能合作，推动了用户体验的创新。专注于创建符合业务目标的以用户为中心的设计，从而实现了增强的用户满意度。"
+                    "title": "云上广济有限公司",
+                    "description": "朋友内推进入安全公司。主要职责，对于安全服务器的安装，调试，配置，以及解决用户问题。"
                 }
             }
         },
 
         {
             "id": "experience_item_4",
-            "place": "@link{places.coursera}",
-            "period": ["2022/10", "now"],
+            "place": "@link{places.apple}",
+            "period": ["2022/03", "2023/01"],
             "locales": {
                 "en": {
-                    "title": "UX Design Full-Time Professor",
-                    "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers."
+                    "title": "Online and offline limited companies",
+                    "description": "Entering the company as a backend identity, but doing front-end work is the beginning. Resigned due to unpaid wages. Main responsibilities include using uniApp to develop, test, and launch an app store."
                 },
                 "es": {
                     "title": "Profesor de Tiempo Completo en UX Design",
@@ -112,8 +112,31 @@
                     "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX."
                 },
                 "zh": {
-                    "title": "全职用户体验设计教授",
-                    "description": "利用我的用户体验设计专业知识，教育和激励学生学习以用户为中心的设计原则。进行用户研究，分析数据，并指导学生将理论知识应用于实际项目，培养下一代用户体验设计师。"
+                    "title": "线上线下有限公司",
+                    "description": "以后端身份进入公司，但是做的是前端的工作,做前端的开始。因为拖欠工资离职。主要职责，使用uniApp完成APP的开发测试上线发布应用商店。"
+                }
+            }
+        },
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.coursera}",
+            "period": ["2023/03", "now"],
+            "locales": {
+                "en": {
+                    "title": "Yuanshenghui Technology Co., Ltd",
+                    "description": "My second job as a front-end professional. Front end engineer, mainly responsible for using UniApp to complete the development, testing, and launch of mini programs, develop official websites and launch, and develop backend management systems."
+                },
+                "es": {
+                    "title": "Profesor de Tiempo Completo en UX Design",
+                    "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX."
+                },
+                "fr": {
+                    "title": "Professeur à temps plein en UX Design",
+                    "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX."
+                },
+                "zh": {
+                    "title": "元生汇科技有限公司",
+                    "description": "转行前端的第二份工作。前端工程师，主要职责，使用uniApp完成小程序的开发测试上线，开发官网以及上线，开发后台管理系统。"
                 }
             }
         }
